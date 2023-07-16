@@ -35,9 +35,3 @@ The AI player uses this knowledge to make safe moves or flag mines. If no safe m
 
 - `minesweeper.py`: Contains the implementation of the Minesweeper game and the AI player.
 - `runner.py`: Runs the Minesweeper game using the Pygame library.
-
-## Acknowledgments
-
-This project is based on the CS50 AI course from Harvard University.
-
-Note: The code provided is a simplified version and may require additional modifications and error handling for a complete and robust implementation.
